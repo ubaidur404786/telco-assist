@@ -1,0 +1,14 @@
+# Phase 1 — data + database
+pandas>=2.0
+Faker>=25.0
+
+# Phase 2 — text-to-SQL eval (free LLMs)
+openai>=1.30
+python-dotenv>=1.0
+
+# Phase 3 — RAG
+chromadb>=0.5
+fastembed>=0.3
+
+# Phase 5 — UI
+streamlit>=1.30

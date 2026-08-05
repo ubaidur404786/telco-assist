@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Generated artifacts (reproducible from code — no need to commit)
+telco.db
+data/*.csv
+*_eval_results.csv
+RESULTS.md
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
